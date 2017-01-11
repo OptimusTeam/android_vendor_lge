@@ -115,7 +115,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e610/proprietary/lib/libOmxAacDec.so:system/lib/libOmxAacDec.so \
     vendor/lge/e610/proprietary/lib/libOmxAc3HwDec.so:system/lib/libOmxAc3HwDec.so \
     vendor/lge/e610/proprietary/lib/libOmxIttiamVenc.so:system/lib/libOmxIttiamVenc.so \
-    vendor/lge/e610/proprietary/lib/hw/nfc.default.so:system/lib/hw/nfc.default.so \
     vendor/lge/e610/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so \
     vendor/lge/e610/proprietary/lib/libchromatix_hi542_default_video.so:system/lib/libchromatix_hi542_default_video.so \
     vendor/lge/e610/proprietary/lib/libgemini.so:system/lib/libgemini.so \
